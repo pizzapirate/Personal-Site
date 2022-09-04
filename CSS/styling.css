@@ -1,0 +1,16 @@
+/* html */
+ul {
+    list-style-type: none;
+    list-style:none;
+    padding-left:0;
+}
+
+/* classes */
+.darkmode {
+    background-color: #202023;
+    color: #EEEEEE;
+}
+.turqoise {
+    background-color: #81E6D9;
+    color: #202023;
+}

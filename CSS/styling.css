@@ -14,3 +14,10 @@ ul {
     background-color: #81E6D9;
     color: #202023;
 }
+
+/* id */
+#CodeSnippet {
+    background-color: #313134;
+    color: #EEEEEE;
+    border-radius: 10px;
+}

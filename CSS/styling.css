@@ -14,3 +14,18 @@ ul {
     background-color: #81E6D9;
     color: #202023;
 }
+
+/* id's */
+#CodeSnippet {
+    margin-top: 20px;
+    color: #198038;
+    text-shadow: 0 0 3px #24a148;
+    border-radius: 10px;
+    background-color: #313134;
+    font-family: Inconsolata, monospace;
+    font-size: 1.2em;
+}
+#CodeSnippetInner {
+    display: inline-block;
+    padding: 20px 0;
+}

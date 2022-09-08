@@ -17,7 +17,9 @@ ul {
 
 /* id */
 #CodeSnippet {
-    background-color: #313134;
+    height: 100px;
     color: #EEEEEE;
     border-radius: 10px;
+    background-color: #313134;
+    font: 1.3rem Inconsolata, monospace;
 }

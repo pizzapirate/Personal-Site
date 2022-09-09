@@ -7,7 +7,7 @@ var typewriter = new Typewriter(app, {
 typewriter.typeString('Hello, World!')
     .pauseFor(2500)
     .deleteAll()
-    .typeString('Thank you for visiting my website!')
+    .typeString('Thanks for visiting my site!')
     .pauseFor(2500)
     .deleteAll()
     .typeString('I hope you enjoy your stay!')
